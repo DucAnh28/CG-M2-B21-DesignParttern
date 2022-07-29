@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BT1-FactoryMethodExample/BT1-FactoryMethodExample.iml" filepath="$PROJECT_DIR$/BT1-FactoryMethodExample/BT1-FactoryMethodExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT2-MemoryPool/BT2-MemoryPool.iml" filepath="$PROJECT_DIR$/BT2-MemoryPool/BT2-MemoryPool.iml" />
       <module fileurl="file://$PROJECT_DIR$/CG-M2-DesignPattern.iml" filepath="$PROJECT_DIR$/CG-M2-DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH1-FactoryMethod/TH1-FactoryMethod.iml" filepath="$PROJECT_DIR$/TH1-FactoryMethod/TH1-FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH2-ObjectPool/TH2-ObjectPool.iml" filepath="$PROJECT_DIR$/TH2-ObjectPool/TH2-ObjectPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH3-Singleton/TH3-Singleton.iml" filepath="$PROJECT_DIR$/TH3-Singleton/TH3-Singleton.iml" />
     </modules>
   </component>
 </project>
