@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CG-M2-DesignPattern.iml" filepath="$PROJECT_DIR$/CG-M2-DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH1-FactoryMethod/TH1-FactoryMethod.iml" filepath="$PROJECT_DIR$/TH1-FactoryMethod/TH1-FactoryMethod.iml" />
     </modules>
   </component>
 </project>
